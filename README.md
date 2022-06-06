@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalphonorechi
 - 🌱 I’m a  flutter developer .
-- 👀 I’m interested in Machine learning and how to intergrate them in flutter apps.
+- 👀 I’m interested in Machine learning and its intergration into flutter apps.
 - 🌱 I’m currently learning Node.js and MongoDB.
 
 <!---
